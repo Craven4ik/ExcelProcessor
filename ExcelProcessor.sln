@@ -5,6 +5,11 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelProcessor", "ExcelProcessor\ExcelProcessor.csproj", "{1401271D-EDF4-495B-B298-1954FBEBC462}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{1FB9096C-2748-42B2-A7F2-EF9D5DA7154A}"
+	ProjectSection(SolutionItems) = preProject
+		SqlTasks.sql = SqlTasks.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
